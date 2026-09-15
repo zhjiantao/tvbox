@@ -1,0 +1,24 @@
+{
+  "spider": "",
+  "wallpaper": "https://api.kdcc.cn",
+  "sites": [
+    {
+      "key": "site_1788787275447",
+      "name": "桃花",
+      "type": 1,
+      "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "parses": [],
+  "lives": [
+    {
+      "name": "",
+      "type": 0,
+      "url": "",
+      "epg": ""
+    }
+  ]
+}
