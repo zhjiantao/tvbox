@@ -1,0 +1,21 @@
+{
+  "spider": "",
+  "wallpaper": "",
+  "sites": [
+    { "key": "maccms_vod", 
+      "name": "速播", 
+      "type": 1, 
+      "api": "https://subocj.com/api.php/provide/vod/at/json",  
+      "searchable": 1, 
+      "changeable": 1 }
+  ],
+  "lives": [
+    {
+      "name": "",
+      "type": 0,
+      "url": "",
+      "epg": ""
+    }
+  ]
+}
+

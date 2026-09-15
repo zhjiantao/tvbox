@@ -1,0 +1,21 @@
+{
+  "spider": "",
+  "wallpaper": "",
+  "sites": [
+    { "key": "maccms_vod", 
+      "name": "大奶", 
+      "type": 1, 
+      "api": "https://api.ddapi.cc/api.php/provide/vod/",  
+      "searchable": 1, 
+      "changeable": 1 }
+  ],
+  "lives": [
+    {
+      "name": "",
+      "type": 0,
+      "url": "",
+      "epg": ""
+    }
+  ]
+}
+

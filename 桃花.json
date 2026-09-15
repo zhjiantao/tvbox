@@ -1,0 +1,21 @@
+{
+  "spider": "",
+  "wallpaper": "",
+  "sites": [
+    { "key": "maccms_vod", 
+      "name": "桃花", 
+      "type": 1, 
+      "api": "https://thzy1.me/api.php/provide/vod/?ac=list",  
+      "searchable": 1, 
+      "changeable": 1 }
+  ],
+  "lives": [
+    {
+      "name": "",
+      "type": 0,
+      "url": "",
+      "epg": ""
+    }
+  ]
+}
+

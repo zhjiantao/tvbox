@@ -1,0 +1,21 @@
+{
+  "spider": "",
+  "wallpaper": "",
+  "sites": [
+    { "key": "maccms_vod", 
+      "name": "暴风", 
+      "type": 1, 
+      "api": "https://bfzyapi.com/api.php/provide/vod",  
+      "searchable": 1, 
+      "changeable": 1 }
+  ],
+  "lives": [
+    {
+      "name": "",
+      "type": 0,
+      "url": "",
+      "epg": ""
+    }
+  ]
+}
+

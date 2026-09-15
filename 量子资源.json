@@ -1,0 +1,21 @@
+{
+  "spider": "",
+  "wallpaper": "",
+  "sites": [
+    { "key": "maccms_vod", 
+      "name": "量子资源", 
+      "type": 1, 
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",  
+      "searchable": 1, 
+      "changeable": 1 }
+  ],
+  "lives": [
+    {
+      "name": "",
+      "type": 0,
+      "url": "",
+      "epg": ""
+    }
+  ]
+}
+
